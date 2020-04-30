@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "417886241770",
+    "firebase_url": "https://cricizz-aeb36.firebaseio.com",
+    "project_id": "cricizz-aeb36",
+    "storage_bucket": "cricizz-aeb36.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:417886241770:android:1b14ad880616d773",
+        "android_client_info": {
+          "package_name": "com.example.cricketapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "417886241770-olcvtvqpbbn8dpacmpq30ifkf1om8cd5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cricketapp",
+            "certificate_hash": "e8c846ecf6671c5d80ff1c376cd2376072e8cefc"
+          }
+        },
+        {
+          "client_id": "417886241770-kinj6ukkq8oue4vapphs4b2qomi7khmt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cricketapp",
+            "certificate_hash": "69a0c0094177dbc7b6dce44bc4cabc7cfa2a6e44"
+          }
+        },
+        {
+          "client_id": "417886241770-8s9o5ic5n60e85e5v6sqh744nngsdbnk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-M8rzy-p8PoEdhX2n5wpKuHZA7OvN8Qg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "417886241770-8s9o5ic5n60e85e5v6sqh744nngsdbnk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
